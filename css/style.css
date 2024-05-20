@@ -1,0 +1,43 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: content-box;
+  background-color: rgb(226, 224, 224);
+}
+.container {
+  margin: 100px auto;
+  width: 300px;
+  text-align: center;
+  padding: 20px;
+}
+.content {
+  border: 3px solid black;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 20px;
+}
+.time-container {
+  border: 2px solid rgb(117, 69, 69);
+  padding: 10px 10px;
+  border-radius: 12px;
+  display: inline-flex;
+}
+.time {
+  font-weight: 900;
+  font-size: 50px;
+}
+.milliseconds {
+  font-size: 20px;
+}
+.am-pm {
+  font-size: 20px;
+  padding: 0px 5px;
+}
+.d-o-day {
+  margin: 20px;
+  font-size: xx-large;
+  color: rgb(75, 74, 74);
+}
+.mm-dd-yyyy {
+  margin-bottom: 10px;
+}
