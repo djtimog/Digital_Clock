@@ -1,8 +1,13 @@
+@font-face {
+  font-family: digital;
+  src: url(/font/digital-7.regular\ \(1\).ttf);
+}
 * {
   padding: 0px;
   margin: 0px;
   box-sizing: content-box;
   background-color: rgb(226, 224, 224);
+  
 }
 .container {
   margin: 100px auto;
@@ -24,16 +29,20 @@
 }
 .time {
   font-weight: 900;
-  font-size: 50px;
+  font-size: 60px;
+  font-family: digital;
 }
 .milliseconds {
-  font-size: 20px;
+  font-size: 30px;
 }
 .am-pm {
-  font-size: 20px;
+  font-size: 30px;
   padding: 0px 5px;
+  font-family: digital;
 }
 .d-o-day {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
   margin: 20px;
   font-size: xx-large;
   color: rgb(75, 74, 74);
