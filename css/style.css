@@ -1,13 +1,12 @@
 @font-face {
   font-family: digital;
-  src: url(/font/digital-7.regular\ \(1\).ttf);
+  src: url(/font/digital.ttf);
 }
 * {
   padding: 0px;
   margin: 0px;
   box-sizing: content-box;
   background-color: rgb(226, 224, 224);
-  
 }
 .container {
   margin: 100px auto;
