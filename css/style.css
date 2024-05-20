@@ -1,6 +1,6 @@
 @font-face {
   font-family: digital;
-  src: url(/css/digital.ttf);
+  src: url(../css/digital.ttf);
 }
 * {
   padding: 0px;
